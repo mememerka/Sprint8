@@ -1,0 +1,10 @@
+.loginMain{
+    display: flex;
+    flex-flow: row;
+    background-image: url('./img/welcomebg.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 100vmax;
+    background-size: cover;
+}

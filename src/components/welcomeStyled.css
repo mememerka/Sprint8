@@ -1,0 +1,8 @@
+.mainWelcome{
+    background-image: url('./img/welcomebg.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 100vh;
+}

@@ -1,0 +1,8 @@
+.maininfo{
+    background-image: url('./img/infonaubg.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 100vmax;
+    background-size: cover;
+} 
